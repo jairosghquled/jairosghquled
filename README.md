@@ -15,14 +15,16 @@
 
 </p>
 
-<h2 align="center">Know About Me</h2>
+<h2 align="center">†⸸     know about me</h2>
 
 <hr>
 
 <p>
-  <img src="./images/disc.png" width="180" align="left">
+  <img src="disc.png" width="180" align="left">
 
-  okay lets do this one more time yeah? yo im jai or jairo, im 16 and currently self-studying as a ICT major to become a scripter. i am the proud owner of the nishikiyama-gumi, a ponytown yakuza clan. i make gacha animations on my tiktok when i have the motivation and free time. i love reading mangas and writing and science. and when im feel alone, like no one understand what im going thru, i remember my friends asher and rodney who get it. i never thought id be able to do any of this stuff but i can fr. tho i came from pretty harsh roots, im determined to make my life my own even if my own mental health makes it hard to do so. im also studying some japanese in my free time. my fav color is dusty blue. 金は好意を買う。忠誠は信頼を得る。
+  okay lets do this one more time yeah? yo, im jai or jairo, also known as lovednotes. im 16-year-old self-studying ICT to become a scripter. im the proud owner of the Nishikiyama-gumi, a PonyTown yakuza clan. i make animations, read manga, write, and learn japanese in my free time. im determined to build a life of my own despite coming from a harsh past. my favorite color is dusty blue.
+
+金は好意を買う。忠誠は信頼を得る。
 </p>
 
 <br clear="left">
