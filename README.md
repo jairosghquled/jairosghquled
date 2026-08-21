@@ -22,7 +22,7 @@
 <p>
   <img src="disc.png" width="180" align="left">
 
-  okay lets do this one more time yeah? yo, im jai or jairo, also known as lovednotes. im 16-year-old self-studying ICT to become a scripter. im the proud owner of the Nishikiyama-gumi, a PonyTown yakuza clan. i make animations, read manga, write, and learn japanese in my free time. im determined to build a life of my own despite coming from a harsh past. my favorite color is dusty blue.
+  okay lets do this one more time yeah? yo, im jai or jairo, also known as lovednotes. im 16-year-old self-studying ICT to become a scripter. im the proud owner of the Nishikiyama-gumi, a PonyTown yakuza clan. i make animations, read manga, write, and learn japanese in my free time. im determined to build a life of my own despite coming from a harsh past. my favorite color is dusty blue. my aesthetic is dark acubi/dark grunge.
 
 金は好意を買う。忠誠は信頼を得る。
 </p>
@@ -53,7 +53,7 @@ i tend to leave people on read and mostly an avoidant-attachment when it comes t
 
 <br>
 
-basic dni criteria: heavily religious, is/used to be staff in DDS or DSS or supports them, ableist, racist, homophobic, etc., if ur gonna tell me to boost your content if we aren't close, BELOW 13 or OVER 21, fujoshis/fudanshi/fujins, people that know me irl, ai "artists", darkshippers, ageplayers (age regressors are fine)
+basic dni criteria: heavily religious, is/used to be staff in DDS (Deep Dive Seals) or DSS (Deep Sea Seals) or support them, ableist, racist, homophobic, etc., if ur gonna tell me to boost your content if we aren't close, BELOW 13 or OVER 21, fujoshis/fudanshi/fujins, people that know me irl, ai "artists", darkshippers, ageplayers (age regressors are fine)
 
 </td>
 </tr>
@@ -64,12 +64,67 @@ basic dni criteria: heavily religious, is/used to be staff in DDS or DSS or supp
 <img src="githr.png" width="100%">
 
 <p>
-  <img src="disc.png" width="180" align="left">
+  <img src="chesspiece.png" width="180" align="right">
 
-  placeholder
+  <img src="https://img.shields.io/badge/◉%20好きなこと — INTERESTS-000000?style=flat-square">
+  </a><br>
+  reading, writing, scripting, manga, poetry, ponytown, roblox, minecraft, jaa kimi no kawari ni korosu ka, sk8 the infinity, banana fish, death note, phantom busters, stranger by the shore, music, jiinzo, whatsaheart, i'm geist, snave, desire4u, noturtype, worlds end, mourn, insane clown posse, ayesha erotica, shoegaze, gacha, animating, editing, world zero, sam and colby, adopt me
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/◉%20嫌いなこと — DISLIKES-000000?style=flat-square">
+  </a><br>
+  my mother, fried chicken, fish, people, strong smells, idfk tbh
 </p>
 
 <br clear="left">
+
+<h3 align="center">†⸸     connect to me!</h3>
+
+<img src="githr.png" width="100%">
+
+<p align="center">
+
+<a href="https://discord.gg/4jRAYtQtvA">
+<img src="https://img.shields.io/badge/DISCORD-000000?style=flat-square&logo=discord&logoColor=white">
+</a>
+
+<a href="https://open.spotify.com/playlist/23teOLgFqGosCBsgrk9ldW?si=ee40dac835ff4368">
+<img src="https://img.shields.io/badge/SPOTIFY-000000?style=flat-square&logo=spotify&logoColor=white">
+</a>
+
+<a href="https://www.roblox.com/users/2023704938/profile">
+<img src="https://img.shields.io/badge/ROBLOX-000000?style=flat-square&logo=roblox&logoColor=white">
+</a>
+
+</p>
+
+<br>
+
+<div align="center">
+
+<details>
+<summary>「Shadows - jairosghquled」 — 9:22 – 9:30 PM · Sat, May 2, 2026</summary>
+
+<br>
+
+時々、憎んでしまう  
+なれたはずの自分を。  
+青白い手が鏡を引っ掻き、  
+中へ入れてくれと懇願する  
+
+今の自分という影に溺れている。  
+後悔で縫い合わされた屍のように、  
+借り物の闇を吸い込みながら  
+
+名前は灰の味がして、  
+映るはずの姿は留まらない。  
+自分の亡霊でさえも  
+今の自分に怯えている。
+
+</details>
+
+</div>
 
 <h3 align="left">†⸸     my projects — プロジェクト</h3>
 
@@ -95,3 +150,11 @@ basic dni criteria: heavily religious, is/used to be staff in DDS or DSS or supp
 </p>
 
 <br clear="right">
+
+<h2 align="center">†⸸     contribution — 寄稿</h3>
+
+<img src="githr.png" width="100%">
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jairosghquled&theme=github-dark&hide_border=true&area=true">
+</p>
