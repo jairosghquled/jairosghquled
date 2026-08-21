@@ -29,12 +29,33 @@
 
 <br clear="left">
 
+<h3 align="left">†⸸     my projects — プロジェクト</h3>
+
 <hr>
-<h2>Top Projects <small>(built to avoid manual labor)</small></h2>
 
 <p>
-<img src="youhaverecievedacat.png" width="180" align="right">
+<img src="youhaverecievedacat.png" width="280" align="right">
   
-  txt
-  txt
-  txt
+<p>
+  <a href="https://discord.gg/apDmjBKeA6">
+    <img src="https://img.shields.io/badge/◉%20錦山組 — Nishikiyama gumi-000000?style=flat-square">
+  </a><br>
+  Work in progress. Early in development; invites are open to staff applicants only.
+  <em>The Nishikiyama-gumi, a subsidiary of the Enomoto-ikka, is a Japanese yakuza regiment based on the Roblox Ro-Mob clan. Reimagined in PonyTown to offer an complex, immersive experience.</em>
+</p>
+
+<p>
+  <a href="PLACEHOLDER">
+    <img src="https://img.shields.io/badge/◉%20PLACEHOLDER-000000?style=flat-square">
+  </a><br>
+  PLACEHOLDER
+</p>
+
+<p>
+  <a href=YPLACEHOLDER">
+    <img src="https://img.shields.io/badge/◉%20PLACEHOLDER-000000?style=flat-square">
+  </a><br>
+  PLACEHOLDER
+</p>
+
+<br clear="right">
