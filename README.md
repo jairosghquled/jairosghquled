@@ -30,3 +30,11 @@
 <br clear="left">
 
 <hr>
+<h2>Top Projects <small>(built to avoid manual labor)</small></h2>
+
+<p>
+<img src="youhaverecievedacat.png" width="180" align="right">
+  
+  txt
+  txt
+  txt
