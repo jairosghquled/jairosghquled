@@ -35,27 +35,21 @@
 
 <p>
 <img src="youhaverecievedacat.png" width="280" align="right">
-  
+
+<p>
+  <a href="https://discord.gg/4jRAYtQtvA">
+    <img src="https://img.shields.io/badge/◉%20My Discord Server!-000000?style=flat-square">
+  </a><br>
+  incxherents is a server for fun, friendship, and bringing people together!
+  <em>Meet others who enjoy art, gaming, chatting, and more! You can earn Nitro, Robux, and more by multiple methods in my server. (currently not maintained.)</em>
+</p>
+
 <p>
   <a href="https://discord.gg/apDmjBKeA6">
     <img src="https://img.shields.io/badge/◉%20錦山組 — Nishikiyama gumi-000000?style=flat-square">
   </a><br>
   Work in progress. Early in development; invites are open to staff applicants only.
   <em>The Nishikiyama-gumi, a subsidiary of the Enomoto-ikka, is a Japanese yakuza regiment based on the Roblox Ro-Mob clan. Reimagined in PonyTown to offer an complex, immersive experience.</em>
-</p>
-
-<p>
-  <a href="PLACEHOLDER">
-    <img src="https://img.shields.io/badge/◉%20PLACEHOLDER-000000?style=flat-square">
-  </a><br>
-  PLACEHOLDER
-</p>
-
-<p>
-  <a href=YPLACEHOLDER">
-    <img src="https://img.shields.io/badge/◉%20PLACEHOLDER-000000?style=flat-square">
-  </a><br>
-  PLACEHOLDER
 </p>
 
 <br clear="right">
