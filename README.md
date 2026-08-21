@@ -29,6 +29,8 @@
 
 <br clear="left">
 
+<img src="gitdiv.png" width="100%">
+
 <h3 align="left">†⸸     my projects — プロジェクト</h3>
 
 <hr>
