@@ -43,7 +43,7 @@
 
 <br>
 
-i tend to leave people on read and is mostly an avoidant from people. i need tonetags sometimes. i have suspected a [cluster-b disorder](https://my.clevelandclinic.org/health/diseases/cluster-b-personality-disorders), primarily [BPD](https://www.mayoclinic.org/diseases-conditions/borderline-personality-disorder/symptoms-causes/syc-20370237) and [NPD](https://www.mayoclinic.org/diseases-conditions/narcissistic-personality-disorder/symptoms-causes/syc-20366662). i usually treat people with the same respect they give me. sometimes i can be caught up within my own head and disregard others without intending to.
+i tend to leave people on read and mostly an avoidant-attachment when it comes to people. i need tonetags sometimes. i have a <strong>suspected</strong> [cluster-b disorder](https://my.clevelandclinic.org/health/diseases/cluster-b-personality-disorders), primarily [BPD](https://www.mayoclinic.org/diseases-conditions/borderline-personality-disorder/symptoms-causes/syc-20370237) and [NPD](https://www.mayoclinic.org/diseases-conditions/narcissistic-personality-disorder/symptoms-causes/syc-20366662). i usually treat people with the same respect they give me. sometimes i can be caught up within my own head and disregard others without intending to. on the rare occasion, i make kms jokes but never kys jokes. (ex. ima end it, jumps off bridge, etc.)
 
 </td>
 
@@ -53,7 +53,7 @@ i tend to leave people on read and is mostly an avoidant from people. i need ton
 
 <br>
 
-placeholder
+basic dni criteria: heavily religious, is/used to be staff in DDS or DSS or supports them, ableist, racist, homophobic, etc., if ur gonna tell me to boost your content if we aren't close, BELOW 13 or OVER 21, fujoshis/fudanshi/fujins, people that know me irl, ai "artists", darkshippers, ageplayers (age regressors are fine)
 
 </td>
 </tr>
@@ -79,7 +79,7 @@ placeholder
     <img src="https://img.shields.io/badge/◉%20錦山組 — Nishikiyama gumi-000000?style=flat-square">
   </a><br>
   Work in progress. Early in development; invites are open to staff applicants only.
-  <em>The Nishikiyama-gumi, a subsidiary of the Enomoto-ikka, is a Japanese yakuza regiment based on the Roblox Ro-Mob clan. Reimagined in PonyTown to offer an complex, immersive experience.</em>
+  <em>The Nishikiyama-gumi, a subsidiary of the Enomoto-ikka, is a Japanese yakuza regiment based on the Roblox Ro-Mob clan. Reimagined in PonyTown to offer a complex, immersive experience.</em>
 </p>
 
 <br clear="right">
