@@ -59,6 +59,18 @@ basic dni criteria: heavily religious, is/used to be staff in DDS or DSS or supp
 </tr>
 </table>
 
+<h3 align="left">†⸸     君に興味があるかって？　とんでもない！</h3>
+
+<img src="githr.png" width="100%">
+
+<p>
+  <img src="disc.png" width="180" align="left">
+
+  placeholder
+</p>
+
+<br clear="left">
+
 <h3 align="left">†⸸     my projects — プロジェクト</h3>
 
 <img src="githr.png" width="100%">
