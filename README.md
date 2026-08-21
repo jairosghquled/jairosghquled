@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="my banner.png" width="100%">
+<p align="center">
 
-<!--
-**jairosghquled/jairosghquled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/jairosghquled">
+<img src="https://img.shields.io/badge/★%20STARS-000000?style=flat-square&labelColor=000000&color=000000">
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/jairosghquled?tab=repositories">
+<img src="https://img.shields.io/badge/⌘%20PROJECTS-000000?style=flat-square&labelColor=000000&color=000000">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/jairosghquled?tab=followers">
+<img src="https://img.shields.io/badge/♟%20FOLLOWERS-000000?style=flat-square&labelColor=000000&color=000000">
+</a>
+
+</p>
