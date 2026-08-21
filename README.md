@@ -14,3 +14,20 @@
 </a>
 
 </p>
+
+<h2 align="center">Know About Me</h2>
+
+<hr>
+
+<p>
+  <img src="./images/brain.png" width="180" align="left">
+
+  I'm an aspiring programmer interested in web development,
+  scripting, and creative projects. I enjoy learning new
+  technologies, experimenting with code, and building things
+  that reflect my own style.
+</p>
+
+<br clear="left">
+
+<hr>
