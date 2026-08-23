@@ -64,7 +64,7 @@ basic dni criteria: heavily religious, is/used to be staff in DDS (Deep Dive Sea
 <img src="githr.png" width="100%">
 
 <p>
-  <img src="chesspiece.png" width="180" align="right">
+  <img src="jai_yay_20260823182903.png" width="180" align="right">
 
   <img src="https://img.shields.io/badge/◉%20好きなこと — INTERESTS-000000?style=flat-square">
   </a><br>
