@@ -22,9 +22,9 @@
 <p>
   <img src="disc.png" width="180" align="left">
 
-  okay lets do this one more time yeah? yo, im jai or jairo, also known as lovednotes. im 16-year-old self-studying ICT to become a scripter. im the proud owner of multiple projects and servers. i make animations, read manga, write, and learn japanese in my free time. im determined to build a life of my own despite coming from a harsh past. my favorite color is dusty blue. my aesthetic is dark acubi/dark grunge.
+  yo, im jai or jairo, also known as lovednotes or jairosghquled. im 16-year-old freelance scripter. im the proud owner of multiple projects and servers. i make animations, read manga, write, and learn japanese in my free time. im determined to build a life of my own despite coming from a harsh past. my favorite color is dusty blue. my aesthetic is dark acubi/dark grunge. i consider myself quite popular within ponytown safe server docks. if you see me in ponytown, please come say hi! i love getting recognized.
 
-金は好意を買う。忠誠は信頼を得る。
+金は好意を買う。忠誠は信頼を得る。GitHub Readme last updated: 2026/10/16 21:52 GMT+8
 </p>
 
 <br clear="left">
@@ -43,7 +43,7 @@
 
 <br>
 
-i tend to leave people on read and mostly an avoidant-attachment when it comes to people. i need tonetags sometimes. i have a <strong>suspected</strong> [cluster-b disorder](https://my.clevelandclinic.org/health/diseases/cluster-b-personality-disorders), primarily [ASPD](https://www.mayoclinic.org/diseases-conditions/borderline-personality-disorder/symptoms-causes/syc-20370237) and [NPD](https://www.mayoclinic.org/diseases-conditions/narcissistic-personality-disorder/symptoms-causes/syc-20366662). i usually treat people with the same respect they give me. sometimes i can be caught up within my own head and disregard others without intending to. on the rare occasion, i make kms jokes but never kys jokes. (ex. ima end it, jumps off bridge, etc.)
+i tend to leave people on read and mostly an avoidant attachment when it comes to people. i need tonetags sometimes. i have a <strong>suspected</strong> [cluster-b disorder](https://my.clevelandclinic.org/health/diseases/cluster-b-personality-disorders), primarily [ASPD](https://www.mayoclinic.org/diseases-conditions/borderline-personality-disorder/symptoms-causes/syc-20370237) and [NPD](https://www.mayoclinic.org/diseases-conditions/narcissistic-personality-disorder/symptoms-causes/syc-20366662). i usually treat people with the same respect they give me. sometimes i can be caught up within my own head and disregard others without intending to. on the rare occasion, i make kms jokes but never kys jokes. (ex. ima end it, jumps off bridge, kill me bro etc.)
 
 </td>
 
@@ -147,14 +147,4 @@ basic dni criteria: heavily religious, is/used to be staff in DDS (Deep Dive Sea
   </a><br>
   Work in progress. Early in development; invites are open to staff applicants only.
   <em>The Nishikiyama-gumi, a subsidiary of the Enomoto-ikka, is a Japanese yakuza regiment based on the Roblox Ro-Mob clan. Reimagined in PonyTown to offer a complex, immersive experience.</em>
-</p>
-
-<br clear="right">
-
-<h2 align="center">†⸸     contribution — 寄稿</h3>
-
-<img src="githr.png" width="100%">
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jairosghquled&theme=github-dark&hide_border=true&area=true">
 </p>
