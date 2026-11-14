@@ -20,19 +20,20 @@
 <img src="githr.png" width="100%">
 
 <p>
-  <img src="disc.png" width="180" align="left">
+  <img src="disc.png" width="25%" align="left">
 
-  yo, im jai or jairo, also known as lovednotes or jairosghquled. im 16-year-old freelance scripter. im the proud owner of multiple projects and servers. i make animations, read manga, write, and learn japanese in my free time. im determined to build a life of my own despite coming from a harsh past. my favorite color is dusty blue. my aesthetic is dark acubi/dark grunge. i consider myself quite popular within ponytown safe server docks. if you see me in ponytown, please come say hi! i love getting recognized.
+  Yo, I'm Jai or Jairo, also known as lovednotes or jairosghquled. I'm a 16-year-old freelance scripter. I'm the proud owner of multiple projects and servers. I make animations, read manga, write, and learn Japanese in my free time. I'm determined to build a life of my own despite coming from a harsh past. My favorite color is dusty blue. my aesthetic is dark acubi/dark grunge. I consider myself quite popular within Ponytown safe server docks. If you see me in Ponytown, please come say hi! I love getting recognized.
 
-金は好意を買う。忠誠は信頼を得る。GitHub Readme last updated: 2026/10/16 21:52 GMT+8
+金は好意を買う。忠誠は信頼を得る。GitHub Readme last updated: 2026/11/14 22:42 GMT+8
 </p>
+
 <p>
-  am i familar to you? maybe this image on the right can run your memory ...
+<img src="jai spotted.png" align="right" width="380">
 
-  <img src="disc.png" width="180" align="right">
+Am I familiar to you? Maybe this image on the right can jog your memory ... <strong>Please note that I do not allow skin copying.</strong> I've recently had an <strong>impersonator</strong> going around as me, but they're saying their name is Kai and actively blocking people who call them out. <strong>Please report any and all skin-stealers of me to my Discord @jairosghquled.</strong> Please note that if it is just the hood and not my entire skin, I do not count it as a skin-steal and couldn't care. The hood idea in and of itself is not original, but my entire blue skin is. I allow light inspiration, but it's an issue if people start thinking another person is me. My skin is the most recognizable part of me on Ponytown, but make sure you've got the right person, please! I will <em>always</em> have my GitHub attached to my pony.
 </p>
 
-<br clear="left">
+<br clear="both">
 
 <img src="gitdiv.png" width="100%">
 
@@ -147,9 +148,9 @@ basic dni criteria: heavily religious, is/used to be staff in DDS (Deep Dive Sea
 </p>
 
 <p>
-  <a ef="https://discord.gg/apDmjBKeA6">
-    <img src="https://img.shields.io/badge/◉%20錦山組 — Nishikiyama gumi-000000?style=flat-square">
+  <a href="https://discord.gg/4jRAYtQtvA">
+    <img src="https://img.shields.io/badge/◉%20Fruit Frenzy-000000?style=flat-square">
   </a><br>
-  Work in progress. Early in development; invites are open to staff applicants only.
-  <em>The Nishikiyama-gumi, a subsidiary of the Enomoto-ikka, is a Japanese yakuza regiment based on the Roblox Ro-Mob clan. Reimagined in PonyTown to offer a complex, immersive experience.</em>
+  Fruit Frenzy is an upcoming casual business game on Roblox, yea im lazy to type here okay..?
+  <em>Inspired by Chainsaw Juice King. Tester and Staff Team applications are open!</em>
 </p>
