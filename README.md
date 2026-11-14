@@ -26,6 +26,11 @@
 
 金は好意を買う。忠誠は信頼を得る。GitHub Readme last updated: 2026/10/16 21:52 GMT+8
 </p>
+<p>
+  am i familar to you? maybe this image on the right can run your memory ...
+
+  <img src="disc.png" width="180" align="right">
+</p>
 
 <br clear="left">
 
